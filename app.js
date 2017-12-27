@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
+import styles from './style.css'
 
 const url = "https://api.cryptonator.com/api/ticker/";
 
